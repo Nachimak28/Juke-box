@@ -13,19 +13,22 @@ The program asks for 3 choices :
 
 The first option displays the list of the songs as follows :
 
+
 #%%
+
 Choose one of the following options
-   s)Show
-   n)New
-   q)Quit
+
+s)Show
+n)New
+q)Quit
 Choice: s
-     Name                              Link
-  1  Ae dil hai mushkil    https://youtu.be/vUCM_0evdQY
-  2  Agar tum saath ho     https://youtu.be/6SGRn9OHtFY
-  3  Bolna                 https://youtu.be/GYFDRoJtfGM
-  4  Buddhu sa mann        https://youtu.be/i0AUEswUayo
-  5  Bulleya               https://youtu.be/wTgrZE9RWNY
-  6  Shape of you          https://youtu.be/JGwWNGJdvx8
+Name                              Link
+1  Ae dil hai mushkil    https://youtu.be/vUCM_0evdQY
+2  Agar tum saath ho     https://youtu.be/6SGRn9OHtFY
+3  Bolna                 https://youtu.be/GYFDRoJtfGM
+4  Buddhu sa mann        https://youtu.be/i0AUEswUayo
+5  Bulleya               https://youtu.be/wTgrZE9RWNY
+6  Shape of you          https://youtu.be/JGwWNGJdvx8
 Do you wanna play the song y/n?
 #%%
 
